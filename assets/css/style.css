@@ -411,6 +411,7 @@ height: 20rem;
 .button--flex {
 	display: inline-flex;
 	align-items: center;
+	border-color: white;
 }
 
 /*==================== ABOUT ====================*/
