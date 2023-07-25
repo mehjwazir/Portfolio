@@ -647,6 +647,9 @@ height: 20rem;
 	color: #FFF;
 }
 
+.resume {
+	font-size: 1.1rem;
+}
 /*========== SCROLL UP ==========*/
 .scrollup {
 	position: fixed;
