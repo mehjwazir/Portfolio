@@ -416,11 +416,11 @@ height: 20rem;
 	
 }
 
-/* .btn-div {
-	display: flex;
-	justify-content: center;
-	margin-bottom: 5rem;
-} */
+.btn-div {
+	display: flex !important;
+	justify-content: center !important;
+	margin-bottom: 5rem !important;
+}
 
 /*==================== ABOUT ====================*/
  .about__img {
