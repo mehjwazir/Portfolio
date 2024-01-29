@@ -388,6 +388,15 @@ height: 20rem;
 
 
 /*==================== BUTTONS ====================*/
+.btn-div-div {
+		display: flex !important;
+		justify-content: center !important;
+}
+.btn-div {
+	display: flex !important;
+	justify-content: center !important;
+	margin-bottom: 5rem !important;
+}
 .button {
 	color: black;
 	display: inline-block;
@@ -417,11 +426,7 @@ height: 20rem;
 	
 }
 
-.btn-div {
-	display: flex !important;
-	justify-content: center !important;
-	margin-bottom: 5rem !important;
-}
+
 
 /*==================== ABOUT ====================*/
  .about__img {
