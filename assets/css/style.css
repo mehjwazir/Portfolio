@@ -389,6 +389,7 @@ height: 20rem;
 
 /*==================== BUTTONS ====================*/
 .button {
+	color: black;
 	display: inline-block;
 	background-color: var(--first-color);
 	color: gray;
@@ -398,7 +399,7 @@ height: 20rem;
 }
 
 .button:hover {
-	color: white;
+	color: white !important;
 	background-color: #9d968d;
 }
 
