@@ -388,14 +388,11 @@ height: 20rem;
 
 
 /*==================== BUTTONS ====================*/
-.btn-div-div {
-		display: flex !important;
-		justify-content: center !important;
-}
+
 .btn-div {
 	display: flex !important;
 	justify-content: center !important;
-	margin-bottom: 5rem !important;
+	margin-bottom: 4rem !important;
 }
 .button {
 	color: black;
