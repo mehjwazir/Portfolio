@@ -1,0 +1,16 @@
+   @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,200&display=swap');
+ 
+ .center-cards {
+   	display: flex;
+   	justify-content: center;
+   	flex-wrap: wrap;
+   }
+
+
+   .div-top {
+	margin-top: 10rem;
+   }
+
+   .nav-portfolio {
+	background-color: white !important;
+   }

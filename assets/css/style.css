@@ -391,13 +391,14 @@ height: 20rem;
 .button {
 	display: inline-block;
 	background-color: var(--first-color);
-	color: #FFF;
+	color: gray;
 	padding: .4rem;
 	border-radius: .6rem;
 	font-weight: var(--font-medium);
 }
 
 .button:hover {
+	color: white;
 	background-color: #9d968d;
 }
 
@@ -413,6 +414,12 @@ height: 20rem;
 	align-items: center;
 	border-color: white;
 	
+}
+
+.btn-div {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5rem;
 }
 
 /*==================== ABOUT ====================*/
