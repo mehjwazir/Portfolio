@@ -428,12 +428,12 @@ height: 20rem;
 	margin-left: 1.1rem;
 }
 
-.contact {
+.contact-btn-link {
 color: #67645e;
 }
 
 .resume:hover,
-.contact:hover {
+.contact-btn-link:hover {
 	text-decoration: underline;
 }
 
