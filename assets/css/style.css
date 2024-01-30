@@ -423,6 +423,20 @@ height: 20rem;
 	
 }
 
+.resume {
+	color: #67645e;
+	margin-left: 1.1rem;
+}
+
+.contact {
+color: #67645e;
+}
+
+.resume:hover,
+.contact:hover {
+	text-decoration: underline;
+}
+
 
 
 /*==================== ABOUT ====================*/
