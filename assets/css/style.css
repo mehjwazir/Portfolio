@@ -948,7 +948,7 @@ color: #67645e;
 			font-size: small !important;
 			margin-bottom: var(--mb-2);
 			position: relative;
-			width: 40ch !important;
+			width: 48ch !important;
 			font-weight: bold;
 			animation: type 5s steps(50), blink 0.5s step-end infinite alternate;
 			white-space: nowrap;
