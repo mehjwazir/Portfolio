@@ -941,5 +941,6 @@ color: #67645e;
 		.home__img{
 			max-width: 99% !important;
 			height: auto !important;
+			margin-right: 1rem !important;
 		}
 	}
