@@ -140,11 +140,6 @@ a {
 }
 
 
-img {
-	max-width: 100%;
-	height: auto;
-} 
-
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
 	padding: 3rem 0 4rem;
@@ -304,12 +299,14 @@ img {
 }
 
 .home__img {
-margin-bottom: 10rem;
+max-width: 99%;
 height: 20rem;
+margin-bottom: 10rem;
+
 }
 
 .home__data {
-	grid-column: 1/3;
+	grid-column: 1/2;
 }
 
 .home__title {
@@ -937,4 +934,10 @@ color: #67645e;
 	}
 
 
-	
+	/* Mobile devices */
+	@media screen and (min-width: 320px) and (max-width: 480px) {
+		.home__img{
+			max-width: 70% !important;
+			height: auto !important;
+		}
+	}
