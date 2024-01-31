@@ -939,7 +939,7 @@ color: #67645e;
 	/* Mobile devices */
 	@media screen and (min-width: 320px) and (max-width: 480px) {
 		.home__img{
-			max-width: 70% !important;
+			max-width: 99% !important;
 			height: auto !important;
 		}
 	}
