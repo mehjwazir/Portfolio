@@ -943,4 +943,29 @@ color: #67645e;
 			height: auto !important;
 			margin-right: 1rem !important;
 		}
+
+		.home__description {
+			font-size: small !important;
+			margin-bottom: var(--mb-2);
+			position: relative;
+			width: 30ch !important;
+			font-weight: bold;
+			animation: type 5s steps(50), blink 0.5s step-end infinite alternate;
+			white-space: nowrap;
+			overflow: hidden;
+			border-right: 3px solid;
+		}
+
+		@keyframes type {
+			0% {
+				width: 0;
+			}
+		}
+
+		@keyframes blink {
+			50% {
+				border-color: transparent;
+			}
+		}
+
 	}
